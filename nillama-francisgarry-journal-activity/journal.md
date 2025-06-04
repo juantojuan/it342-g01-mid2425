@@ -1,7 +1,6 @@
 06/04/25
-What I learn-
-Git is a fast and light weight software application that developer use to 
-share and work together in software development.
-Confusion-
-So far I have no confusions moving forward but I am still fairly new to 
-using git so visualization is still on progress for me. 
+What I learned –
+Today I learned how to clone a GitHub repository to a specific folder on my local machine. I also discovered that Git requires at least one file in a repository before it can be forked.
+
+Confusion –
+I'm still a bit unsure about the differences between fetch, pull, and merge, and when to use each one during collaboration.
