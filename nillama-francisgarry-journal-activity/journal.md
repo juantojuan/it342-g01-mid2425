@@ -1,6 +1,6 @@
 06/04/25
 What I learned –
-Today I learned how to clone a GitHub repository to a specific folder on my local machine. I also discovered that Git requires at least one file in a repository before it can be forked.
+I practiced creating commits and learned how to stage changes using git add. I now understand that commits are like save points that help track progress in a project.
 
 Confusion –
-I'm still a bit unsure about the differences between fetch, pull, and merge, and when to use each one during collaboration.
+I'm curious about what happens when two people edit the same file and push their changes. How does Git resolve conflicts?
