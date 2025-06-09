@@ -7,3 +7,8 @@ June 5, 2025
 Learned how to use `git add` and `git commit`.
 
 Still confused about what "staging" really means.
+
+June 6, 2025
+Pushed changes to GitHub for the first time.
+
+Still a bit unsure when to use `git pull`.
