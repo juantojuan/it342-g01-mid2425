@@ -21,3 +21,11 @@ I learned how to use `git add` to stage changes and `git commit` to save them. I
 
 One question or confusion I still have: 
 How do I edit a previous commit message if I made a typo or want to add more detail?
+
+June 13, 2025
+
+What I learned in Git: 
+I learned so much how to integrate Spring OAuth on google and github
+
+One question or confusion I still have: 
+Idk how to implement this if i will do this at my house is it the same process?
