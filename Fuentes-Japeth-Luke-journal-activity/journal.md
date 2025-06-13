@@ -38,3 +38,12 @@ KAYA BA KAHA NI SOLO ANG PROJECT SIR?!!
 HAHAHA
 DILI!
 CHARCHAR
+
+
+## June 13, 2025
+
+**What I learned:**  
+I learned how to integrate SpringBoot security.
+
+**One question I still have:**  
+Sir, unsa ka lisod ang phase after aning introduction?
