@@ -16,3 +16,8 @@
 
 #What I'm still confused about: 
 - I understand it now a little bit.
+
+06/18/2025
+
+#What to do:
+- I have a lot of catching up to do. I must stay focused.
